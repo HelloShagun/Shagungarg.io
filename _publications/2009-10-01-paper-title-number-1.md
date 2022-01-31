@@ -6,7 +6,7 @@ excerpt: 'Land Subsidence due to groundwater overextraction in National Capital 
 date: 2022-01-13
 venue: 'Scientific Reports by Nature'
 paperurl: 'https://www.nature.com/articles/s41598-021-04193-9'
-citation: "Garg, S. et al. Tracking hidden crisis in India’s capital from space: implications of unsustainable groundwater use. Sci Rep 12, 651 (2022)."
+citation: 'Garg, S. et al. Tracking hidden crisis in India’s capital from space: implications of unsustainable groundwater use. Sci Rep 12, 651 (2022).'
 ---
 
 [Download paper here](https://www.nature.com/articles/s41598-021-04193-9.pdf)
