@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+title: "Multi-sensor remote sensing analysis of coal fire induced land subsidence in Jharia Coalfields, Jharkhand, India"
+collection: International Journal of Applied Earth Observation and Geoinformation
+permalink: https://www.sciencedirect.com/science/article/pii/S030324342100146X
+excerpt: 'Coal Mining and Subsidence in Parts of Jharia, India'
+date: 2021-07-17
+venue: 'International Journal of Applied Earth Observation and Geoinformation'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S030324342100146X'
+citation: 'Karanam, V., Motagh, M., Garg, S. & Jain, K. Multi-sensor remote sensing analysis of coal fire induced land subsidence in Jharia Coalfields, Jharkhand, India. Int. J. Appl. Earth Obs. Geoinf. 102, 102439 (2021).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S030324342100146X)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: 'Karanam, V., Motagh, M., Garg, S. & Jain, K. Multi-sensor remote sensing analysis of coal fire induced land subsidence in Jharia Coalfields, Jharkhand, India. Int. J. Appl. Earth Obs. Geoinf. 102, 102439 (2021).'
